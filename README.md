@@ -27,6 +27,8 @@ This is very helpful to visualize your progress and encourage yourself to comple
 * I've finished the exercise "Exercise Title".
 ```
 
+You can use this calendar as a TODO list with deadlines, but I do prefer to use it as a tracker of things I have already accomplished. I prefer seing this done than things that are still to be done.
+
 ### Lesson:
 
 1. In the RESOURCES.md file, keep a list with all the links you've used. Rank them with stars (`*`) from 1 to 5, where 5 is the maximum positive score you can give to rank this resource.
