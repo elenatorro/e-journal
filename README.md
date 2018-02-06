@@ -42,9 +42,7 @@ You can use this calendar as a TODO list with deadlines, but I do prefer to use 
 ```
 
 
-### Activity:
-
-1. Note all useful concepts you learn in CONCEPTS.md
+2. Note all useful concepts you learn in CONCEPTS.md
 
 ```
 # Concepts
@@ -54,7 +52,7 @@ You can use this calendar as a TODO list with deadlines, but I do prefer to use 
 Concept description
 ```
 
-2. In the EXERCISES.md file, write down all the different exercises. Remember to keep them as small and concise as possible. This file is optional, only needed if the activity has any exercise.
+3. In the EXERCISES.md file, write down all the different exercises. Remember to keep them as small and concise as possible. This file is optional, only needed if the activity has any exercise.
 
 ```
 ## Exercise Name
@@ -64,13 +62,16 @@ Concept description
 Exercise...
 ```
 
-3. In the RESULTS.md file, write down all the attempt results of the activity chronologically. If the exercise consist in a test exam, try to add your answers and the correct / wrong answers too for every attempt.
+### Activity:
+
+**Note** Activity directories are **optional**. You can track quizzes, tests and other exercises in the EXERCISES.md file under the LESSON directory. The idea of Activities is to help you with tests and exams you can repeat several times, so you can save and track your errors and learn from them.
+
+1. In the RESULTS.md file [optional], write down all the attempt results of the activity chronologically. If the exercise consist in a test exam, try to add your answers and the correct / wrong answers too for every attempt.
 
 ```
-## Result
+# Result
 
-
-### DD/MM/YYYY
+## DD/MM/YYYY
 1. Question
 
 Answer

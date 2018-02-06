@@ -1,5 +1,0 @@
-# Exercise
-
-**Exercise statement**
-
-Exercise...
