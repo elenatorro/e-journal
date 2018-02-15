@@ -41,26 +41,23 @@ You can use this calendar as a TODO list with deadlines, but I do prefer to use 
 - https://examplelink.com/qwersdf **
 ```
 
+2. Save all useful concepts you learn in CONCEPTS directory.
 
-2. Note all useful concepts you learn in CONCEPTS.md
+Each filename should have the following format:
 
-```
-# Concepts
+`n_NameOfTheConcept.md`
 
-## Concept 1
+Where `n` is the concept's index.
 
-Concept description
-```
 
-3. In the EXERCISES.md file, write down all the different exercises. Remember to keep them as small and concise as possible. This file is optional, only needed if the activity has any exercise.
+3. In the EXERCISES directory, keep the different exercises. Remember to keep them as small and concise as possible. This file is optional, only needed if the activity has any exercise or if you want to put in practice a concept you have learned.
 
-```
-## Exercise Name
 
-**Exercise statement**
+Each filename should have the following format:
 
-Exercise...
-```
+`n_NameOfTheExercise.md`
+
+Where `n` is the exercise's index.
 
 ### Activity:
 
