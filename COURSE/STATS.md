@@ -1,5 +1,11 @@
 # Stats
 
+## Legend
+* 0: Not Completed
+* 1: Completed
+
+---
+
 COURSE 0000
 
 LESSON 1 X00
