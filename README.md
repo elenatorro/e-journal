@@ -41,7 +41,7 @@ LESSON n 00000
 
 This is very helpful to visualize your progress and encourage yourself to complete all the progress bars.
 
-**Note**: 0's and 1's are de default option. You can change the legends and, instead of using 0's and 1's, you can use, for instance, emoji.
+**Note**: 0's and 1's are the default option. You can change the legends and, instead of using 0's and 1's, you can use, for instance, emoji.
 
 ### Calendar:
 
