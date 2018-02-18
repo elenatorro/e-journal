@@ -141,3 +141,7 @@ In the RESOURCES.md file, keep a list with all the links you've used.
   * Resource Description.
 * [Resource Name](https://examplelink.com/qwersdf) **
 ```
+
+## Examples
+
+* [e-Journal: Introduction to Artificial Intelligence, by Udacity](https://github.com/elenatorro/e-journal_Intro-to-artificial-intelligence/blob/master/COURSE/INDEX.md) *not finished*
